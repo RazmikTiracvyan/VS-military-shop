@@ -1,0 +1,1 @@
+My project is about VS military and army shop , made by  React JS Node JS and C# ASP .NET, I worked with microschemes and all project is with React Node + C# and database mongo db, I used C# only for the part admin products which is faster than with node js
